@@ -1,7 +1,9 @@
 ### Mongo Demo
 
 You can run this app using the following command.
-`gradlew bootrun`
+`gradlew bootrun` 
+
+For powershell users please run `.\gradlew bootrun`
 
 As a prerequisite, make sure mongodb is installed and do not set any password.
 
